@@ -14,7 +14,6 @@
   
 - Hack The Box
 - TryHackMe
-- VulnHub
 - VulNyx
   
 </p>
