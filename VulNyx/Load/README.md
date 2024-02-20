@@ -3,8 +3,8 @@
 
 [![code with hearth by NHN Cloud](https://img.shields.io/badge/Pwned%20with%20%E2%99%A5%20by-X5K0-ff1414.svg)](https://github.com/X5K0)
 <p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+  <a href="https://vulnyx.com/">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/X5K0/CTF-Area/blob/main/VulNyx/Load/Pictures/LoadMachine.png" width="550">
   </a>
 </p>
 
