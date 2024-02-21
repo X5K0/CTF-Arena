@@ -1,4 +1,4 @@
-# CTF-Area
+# CTF-Arena
 
 
 <h1 align="center">
