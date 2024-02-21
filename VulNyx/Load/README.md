@@ -25,7 +25,6 @@
 - [Privilege Escalation](#-privilege-escalation)
 
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 🔎 Reconnaissance
 
@@ -39,9 +38,11 @@ To do this, we will execute the following command:
 sudo nmap -p- --open -sS --min-rate 5000 -vvv -n -Pn "IP"
 ```
 
-<!--
-IMAGEN  NMAP
--->
+<p align="center">
+  <a href="https://vulnyx.com/">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/X5K0/CTF-Area/blob/main/VulNyx/Load/Pictures/targetedLoad.png" width="900">
+  </a>
+</p>
 
 As we can see, port 80 hosts a robots.txt file which reveals a potential path. Let's navigate to that path to see what we find.
 
