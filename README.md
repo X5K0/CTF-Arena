@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://saamarketing.co.uk/wp-content/uploads/2023/10/Introduction-to-Capture-the-Flag-CTF.jpg" alt="Markdownify"></a>
+  <img src="https://github.com/X5K0/CTF-Area/blob/main/banner_CTF.png" alt="CTF"></a>
   <br>
   
   <br>
