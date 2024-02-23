@@ -1,22 +1,24 @@
-# CTF-Arena
-
-
 <h1 align="center">
   <br>
   <img src="https://github.com/X5K0/CTF-Area/blob/main/banner_CTF.png" alt="CTF"></a>
   <br>
-  
   <br>
 </h1>
 
-<h4 align="center">In this area I will upload CTF writeups from the following platforms:</h4>
-<p align="center">
-  
-- Hack The Box
-- TryHackMe
-- VulNyx
-  
-</p>
+# CTF-Arena
+
+<table align="center">
+<tr>
+<td>
+CTF-Arena is the place where writeups from different platforms will be uploaded, such as:
+
+  - Hack The Box.
+  - TryHackMe.
+  - VulNyx.
+</td>
+</tr>
+</table>
+
 <!--
 <p align="center">
   <a href="#key-features">Key Features</a> •
